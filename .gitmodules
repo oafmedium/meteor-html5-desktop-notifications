@@ -1,0 +1,3 @@
+[submodule "html5-desktop-notifications"]
+	path = html5-desktop-notifications
+	url = https://github.com/ttsvetko/HTML5-Desktop-Notifications.git
